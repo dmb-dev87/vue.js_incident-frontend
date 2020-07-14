@@ -1,0 +1,31 @@
+/Backend_api/.vs
+/Backend_api/EventsManagemtns/.vs
+/Backend_api/EventsManagemtns/EventsManagemtns/.vscode
+/Backend_api/EventsManagemtns/EventsManagemtns/bin
+/Backend_api/EventsManagemtns/EventsManagemtns/obj
+
+/Frontend_vue/.DS_Store
+/Frontend_vue/node_modules
+/Frontend_vue/dist
+/Frontend_vue/package-lock.json
+
+/Frontend_vue/tests/e2e/videos/
+/Frontend_vue/tests/e2e/screenshots/
+
+# local env files
+/Frontend_vue/.env.local
+/Frontend_vue/.env.*.local
+
+# Log files
+/Frontend_vue/npm-debug.log*
+/Frontend_vue/yarn-debug.log*
+/Frontend_vue/yarn-error.log*
+
+# Editor directories and files
+/Frontend_vue/.idea
+/Frontend_vue/.vscode
+/Frontend_vue/*.suo
+/Frontend_vue/*.ntvs*
+/Frontend_vue/*.njsproj
+/Frontend_vue/*.sln
+/Frontend_vue/*.sw?

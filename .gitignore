@@ -1,3 +1,9 @@
+EventsManagemtns/.vscode
+EventsManagemtns/.vs
+EventsManagemtns/EventsManagemtns/.vs
+EventsManagemtns/EventsManagemtns/obj
+EventsManagemtns/EventsManagemtns/bin
+
 Vue/.DS_Store
 Vue/node_modules
 Vue/dist

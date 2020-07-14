@@ -1,8 +1,8 @@
-Backend_api/.vs
-Backend_api/EventsManagemtns/.vs
-Backend_api/EventsManagemtns/EventsManagemtns/.vscode
-Backend_api/EventsManagemtns/EventsManagemtns/bin
-Backend_api/EventsManagemtns/EventsManagemtns/obj
+./Backend_api/.vs
+./Backend_api/EventsManagemtns/.vs
+./Backend_api/EventsManagemtns/EventsManagemtns/.vscode
+./Backend_api/EventsManagemtns/EventsManagemtns/bin
+./Backend_api/EventsManagemtns/EventsManagemtns/obj
 
 Frontend_vue/.DS_Store
 Frontend_vue/node_modules

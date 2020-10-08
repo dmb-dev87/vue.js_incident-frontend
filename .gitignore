@@ -29,3 +29,4 @@ Vue/*.ntvs*
 Vue/*.njsproj
 Vue/*.sln
 Vue/*.sw?
+node_modules
